@@ -59,24 +59,38 @@ Google Chrome
 
 📂 Project Structure
 src/
+
  ├── components/
+ 
  │   ├── RegistrationForm.jsx
+ 
  │   ├── InputField.jsx
+ 
  │   ├── SelectField.jsx
+ 
  │   └── PasswordStrength.jsx
  │
+ 
  ├── utils/
+ 
  │   ├── validation.js
+ 
  │   └── locationData.js
+ 
  │
  ├── styles/
+ 
  │   └── form.css
  │
+ 
  ├── App.jsx
+ 
  └── index.js
 
 automation/
+
  ├── registration.test.js
+ 
  └── screenshots/
 
 ✨ Features Implemented
