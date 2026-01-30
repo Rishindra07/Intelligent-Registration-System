@@ -209,7 +209,7 @@ npm start
 
 Application runs at:
 
-http://localhost:3000
+http://localhost:5173
 
 🧪 Setup Instructions — Automation
 cd automation
